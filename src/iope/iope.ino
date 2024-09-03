@@ -104,7 +104,7 @@ void loop() {
       lcd.println(" - IOPE C23 - ");
     } 
     else {
-      lcd.println(" - IOPE Unknown - ");  // 기타 색상
+      lcd.println(" - IOPE Unknown - ");
     }
     delay(3000);
 
