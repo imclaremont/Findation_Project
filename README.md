@@ -1,4 +1,5 @@
 # Findation Project with Arduino uno R3
+<img src="[https://github.com/user-attachments/assets/1c1232ae-f652-4828-8233-9e6bdfd5ac68](https://github.com/user-attachments/assets/db056ec8-691d-4727-a01b-5438fa524cea)" width="400" height="400"/>
 <img src="https://github.com/user-attachments/assets/1c1232ae-f652-4828-8233-9e6bdfd5ac68" width="400" height="400"/>
 
 
